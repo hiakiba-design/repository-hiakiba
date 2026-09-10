@@ -21,4 +21,4 @@ I'm really excited about this class! I would love to learn more about:
 - Foundations for digital collections
 
 ## Thanks!
-Connect with me. --> [LinkedIn](https://www.linkedin.com/in/hikaru-akiba/)
+Connect with me --> [LinkedIn](https://www.linkedin.com/in/hikaru-akiba/)
