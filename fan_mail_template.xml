@@ -13,7 +13,7 @@
             </title>
             <respStmt>
                <resp>Transcribed and encoded by </resp>
-               <persName><ref target="mailto:hiakiba@iu.edu"><!-- Your name and email. --></ref></persName>
+               <persName><ref target="mailto:hiakiba@iu.edu"> Hikaru Akiba</ref></persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -56,9 +56,15 @@
       <body>
          <div type="group">
             <div type="letter">
-               <p/>
+               <p/> <!-- put the fan mail below this comment -->
+               <div type="opener"> DEAR EDITOR: <p/>
+               The best thing about the comic is the character conflicts. It’s nice to see a group of super-heroes who aren't unnaturally buddy-buddy. The cover of #1 was pretty poor, it didn’t stand out. I wish the, name of Mr. Fantastic were different. It sounds too much like Mr. Clean. <p/>
+               Rick Wood 
+               Ames St. 
+               Cambridge, Mass. 
             </div>
             <div type="reply">
+            Rick, no two fans ever seem to agree on what cover is best. Same thing applies to characters’ names. So, let's hear from you other readers. What type of covers do YOU prefer, and how do you feel about the name Mr. Fantastic? (We'll bet at least ONE joker writes that he'd prefer Mr. Clean!)
                <p/>
             </div>
          </div>
