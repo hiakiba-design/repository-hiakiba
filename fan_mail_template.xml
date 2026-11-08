@@ -13,7 +13,7 @@
             </title>
             <respStmt>
                <resp>Transcribed and encoded by </resp>
-               <persName><ref target="mailto:hiakiba@iu.edu"> Hikaru Akiba.</ref></persName>
+               <persName><ref target="mailto:hiakiba@iu.edu">Hikaru Akiba</ref></persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -32,9 +32,8 @@
                   <imprint>
                      <publisher>Marvel Comics</publisher>
                      <biblScope unit="volume">1</biblScope>
-                     <biblScope unit="issue"><!-- issue number --></biblScope>
-                     <date when="196x-xx"/><!-- correct month and date -->
-                     <!-- Correct year and date -->
+                     <biblScope unit="issue">3</biblScope>
+                     <date when="196x-xx"/>1961-12-12
                   </imprint>
                </monogr>
             </biblStruct>
@@ -57,16 +56,17 @@
          <div type="group">
             <div type="letter">
                <p/> <!-- put the fan mail below this comment -->
-               <salute>DEAR EDITOR: </salute>
+               <opener> 
+				<salute>DEAR EDITOR: </salute>
+			   </opener>
                <p>The best thing about the comic is the character conflicts. It’s nice to see a group of super-heroes who aren't unnaturally buddy-buddy. The cover of #1 was pretty poor, it didn’t stand out. I wish the, name of Mr. Fantastic were different. It sounds too much like Mr. Clean. <p/>
                <closer>
 				   <signed>Rick Wood</signed>
-			   </closer>
                <adress>
 				   <addrLine>Ames St.</addrLine>
                <addrLine>Cambridge, Mass.</addrLine>
 			   </adress>
-		
+			   </closer>
             </div>
             <div type="reply">
             Rick, no two fans ever seem to agree on what cover is best. Same thing applies to characters’ names. So, let's hear from you other readers. What type of covers do YOU prefer, and how do you feel about the name Mr. Fantastic? (We'll bet at least ONE joker writes that he'd prefer Mr. Clean!)
