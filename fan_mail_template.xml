@@ -7,13 +7,13 @@
       <fileDesc>
          <titleStmt>
             <title>“Fantastic Four Fan Page”: Fan Mail from <bibl>
-                  <title rendition="#i">The Fantastic Four</title>
-                  <biblScope>1961-</biblScope>
+                  <title rendition="#i">The Fantastic Four #3</title>
+                  <biblScope>1961-12-12</biblScope>
                </bibl>
             </title>
             <respStmt>
                <resp>Transcribed and encoded by </resp>
-               <persName><ref target="mailto:hiakiba@iu.edu"> Hikaru Akiba</ref></persName>
+               <persName><ref target="mailto:hiakiba@iu.edu"> Hikaru Akiba.</ref></persName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
@@ -64,6 +64,7 @@
                <adress>
 				   <addrLine>Ames St.</addrLine>
                <addrLine>Cambridge, Mass.</addrLine>
+			   </adress>
 			   </closer>
             </div>
             <div type="reply">
